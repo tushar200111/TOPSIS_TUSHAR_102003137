@@ -6,7 +6,7 @@ setup(
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'This package is implimentation of multi-criteria decision analysis using topsis',   # Give a short description about your library
   author = 'Tushar Singh',                   # Type in your name
-  author_email = 'tusharsingh22112001@icloud.co',      # Type in your E-Mail
+  author_email = 'tusharsingh22112001@icloud.com',      # Type in your E-Mail
   url = 'https://github.com/tushar200111/TOPSIS_TUSHAR_102003137',   # Provide either the link to your github or to your website
   download_url = '',    # I explain this later on
   keywords = ['topsis'],   # Keywords that define your package best
